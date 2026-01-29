@@ -253,10 +253,10 @@ footer .text-body-secondary {
           Pondok Pesantren Darul Hikmah Tanak Beak. <br>
           Membina generasi qur'ani, berakhlak mulia, dan berwawasan luas.
         </p>
-        <p class="text-body-secondary">© 2026 Ponpes Darul Hikmah.</p>
+        <p class="text-body-secondary">©2026 Ponpes Darul Hikmah.</p>
       </div>
 
-      <div class="col-6 col-md-2 mb-3 ms-auto">
+      <div class="col-6 col-md-2 mb-3 ms-auto"> 
         <h5>Profil</h5>
         <ul class="nav flex-column">
           <li class="nav-item mb-2"><a href="#" class="nav-link p-0">Sejarah</a></li>
